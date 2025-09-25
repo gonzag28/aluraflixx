@@ -13,4 +13,6 @@ header {
 
 section {  
     background: rgb(184,156, 213);
+    pedding-bottom: 80px;
+    pedding-top: 80px;
 }
